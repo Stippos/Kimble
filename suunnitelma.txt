@@ -1,0 +1,53 @@
+Rapsa
+
+- Aikaisempi tutkmius
+
+- Mikä on Kimble
+
+- Malli
+    - Heuristiikat
+    - Pelisimulaatiot
+    
+-Tulokset
+
+-Conclusions
+
+
+--------------------
+
+Simulaatio
+__________
+
+
+Funktiot
+
+-Pelaaja(strategia)
+    -> laudan tilanne  + sakot
+    <- laudan tilanne + sakot + noppa
+    
+-Peli(4xstrategiat)
+    - Pitää kirjaa laudan tilanteesta
+    - Sakot
+    - Siirtää vuoroa kun
+    
+--------------------------------------    
+
+Kulku
+-----
+
+-Pelissä pidetään kirjaa pelaajista
+-Peli antaa pelaajille laudan, nopan. Pelaaja pelaa vuoronsa ja palauttaa laudan ja sakot ja nopan
+-Peli päivittää tilanteen ja antaa vuoron seuraavalle
+
+
+MAHDOLLISET SIIRROT:
+-Kärki liikkuu
+- Syö
+-Uusi kentälle
+-Miinan jättö
+-Ei muiden eteen
+-Jahtaa johtajaa
+-Maaliin
+-Karkuun
+-Pois pesästä
+-vältä täysiä kotipesiä
