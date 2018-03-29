@@ -28,7 +28,7 @@ Funktiot
 -Peli(4xstrategiat)
     - Pitää kirjaa laudan tilanteesta
     - Sakot
-    - Siirtää vuoroa kun
+    - Siirtää vuoroa 
     
 --------------------------------------    
 
